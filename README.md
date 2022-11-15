@@ -4,7 +4,7 @@
 
 By Maulik Vadodariya
 
-## [Link to the live Project](https://hosting-web.netlify.app/)
+## [Link to the live Project](https://hosting-plan-web.netlify.app/)
 
 ![Completed Website](./readme-images/ScreenShot-20221115202136.png)
 
